@@ -1,12 +1,14 @@
 # 🚀 **HackerRank SQL Question Answer**  
 
-![HackerRank SQL Solutions](images/hackerrank-sql.png)
+![HackerRank Logo](https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png)
+
+
 
 ## Description
 This repository contains my solutions to SQL challenges from **HackerRank**. The problems range from beginner-friendly to advanced SQL queries, covering fundamental database operations and complex analytical queries.  
 
 ## 📌 Topics Covered  
-- [✅ **Basic Select**](#Basic-Select)– `SELECT`, `WHERE`, `ORDER BY`, `LIMIT`  
+- [✅ **Basic Select**](Basic-Select) –  `SELECT`, `WHERE`, `ORDER BY`, `LIMIT` 
 - [✅ **Advanced Select**](Advanced-Select) –  `SELECT`, `WHERE`, `ORDER BY`, `LIMIT` 
 - [✅ **Aggregation**](Aggregation) –  `COUNT`, `SUM`, `AVG`, `GROUP BY`, `HAVING` 
 - [✅ **Basic Join**](Basic-Join) – `INNER JOIN`, `LEFT JOIN`, `RIGHT JOIN`, `FULL JOIN` 
