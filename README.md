@@ -8,9 +8,9 @@
 This repository contains my solutions to SQL challenges from **HackerRank**. The problems range from beginner-friendly to advanced SQL queries, covering fundamental database operations and complex analytical queries.  
 
 ## 📌 Topics Covered  
-- [✅ **Basic Select**](Basic-Select) –  `SELECT`, `WHERE`, `ORDER BY`, `LIMIT` 
-- [✅ **Advanced Select**](Advanced-Select) –  `SELECT`, `WHERE`, `ORDER BY`, `LIMIT` 
-- [✅ **Aggregation**](Aggregation) –  `COUNT`, `SUM`, `AVG`, `GROUP BY`, `HAVING` 
+- [✅ **Basic Select**](Basic-Select-Challenges) –  `SELECT`, `WHERE`, `ORDER BY`, `LIMIT` 
+- [✅ **Advanced Select**](Advanced-Select-Challenges) –  `SELECT`, `WHERE`, `ORDER BY`, `LIMIT` 
+- [✅ **Aggregation**](Aggregation-Challenges) –  `COUNT`, `SUM`, `AVG`, `GROUP BY`, `HAVING` 
 - [✅ **Basic Join**](Basic-Join) – `INNER JOIN`, `LEFT JOIN`, `RIGHT JOIN`, `FULL JOIN` 
 - [✅ **Advanced Join**](Advanced-Join) – `INNER JOIN`, `LEFT JOIN`, `RIGHT JOIN`, `FULL JOIN`  
 - [✅ **Alternative Queries**](Alternative-Queries) –    
