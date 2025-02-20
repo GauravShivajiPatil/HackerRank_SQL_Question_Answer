@@ -26,8 +26,8 @@ This repository contains my solutions to SQL challenges from **HackerRank**. The
 
 | Number | Challenges | Solutions |
 |:------:|------------|:---------:|
-| 1 | [Revising the Select Query I](https://www.hackerrank.com/challenges/revising-the-select-query/problem) | [SQL](Basic%20Select/Revising-the-select-Query-1.sql)
-| 2 | [Revising the Select Query II](https://www.hackerrank.com/challenges/revising-the-select-query-2/problem) | [SQL](Basic%20Select/Revising-the-select-Query-2.sql)
+| 1 | [Revising the Select Query I](https://www.hackerrank.com/challenges/revising-the-select-query/problem) | [SQL]([Basic%20Select/Revising-the-select-Query-1.sql](https://github.com/GauravShivajiPatil/HackerRank_SQL_Question_Answer/blob/2c90c37abeef78fd656de3fffc933f11342d16af/Basic%20Select/Revising%20the%20Select%20Query%20II.sql))
+| 2 | [Revising the Select Query II](https://www.hackerrank.com/challenges/revising-the-select-query-2/problem) | [SQL]([Basic%20Select/Revising-the-select-Query-2.sql](https://github.com/GauravShivajiPatil/HackerRank_SQL_Question_Answer/blob/2c90c37abeef78fd656de3fffc933f11342d16af/Basic%20Select/Revising%20the%20Select%20Query%20II.sql))
 | 3 | [Select All](https://www.hackerrank.com/challenges/select-all-sql/problem) | [SQL](Basic%20Select/Select-All.sql)
 | 4 | [Select By ID](https://www.hackerrank.com/challenges/select-by-id/problem) | [SQL](Basic%20Select/Select-By-ID.sql)
 | 5 | [Japanese Cities' Attributes](https://www.hackerrank.com/challenges/japanese-cities-attributes/problem) | [SQL](Basic%20Select/Japanese-Cities'-Attributes.sql)
