@@ -101,7 +101,9 @@ This repository contains my solutions to SQL challenges from **HackerRank**. The
 |:------:|:----------------------------------------------------------------------------------:|:--------------------------------------------------:|
 |    1   | [SQL Project Planning](https://www.hackerrank.com/challenges/sql-projects/problem) | [SQL](ADVANCE%20JOIN/SQL%20PROJECT%20PLANNING.sql) |
 |    2   | [Placements](https://www.hackerrank.com/challenges/placements/problem)             | [SQL](ADVANCE%20JOIN/Placements.sql)               |
-
+|    3   | [Interviews](https://www.hackerrank.com/challenges/interviews/problem)             | [SQL](ADVANCE%20JOIN/Placements.sql)               |
+|    4   | [Symmetric Pairs](https://www.hackerrank.com/challenges/symmetric-pairs/problem)             | [SQL](ADVANCE%20JOIN/Placements.sql)               |
+|    5   | [15 Days of Learning SQL](https://www.hackerrank.com/challenges/15-days-of-learning-sql/problem)             | [SQL](ADVANCE%20JOIN/Placements.sql)               |
 
 ## 📂 How to Use  
 1. **Navigate to the relevant category** and open the `.sql` file.  
