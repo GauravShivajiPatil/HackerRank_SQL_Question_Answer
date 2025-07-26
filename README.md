@@ -105,6 +105,14 @@ This repository contains my solutions to SQL challenges from **HackerRank**. The
 |    4   | [Symmetric Pairs](https://www.hackerrank.com/challenges/symmetric-pairs/problem)             | [SQL](ADVANCE%20JOIN/Placements.sql)               |
 |    5   | [15 Days of Learning SQL](https://www.hackerrank.com/challenges/15-days-of-learning-sql/problem)             | [SQL](ADVANCE%20JOIN/Placements.sql)               |
 
+### Alternative Queries
+
+Challenge | Score | Solution
+--- | --- | ---
+[Draw The Triangle 1](https://www.hackerrank.com/challenges/draw-the-triangle-1/problem) | 25 | [Solution](https://github.com/lalwanijayesh/hackerrank-solutions/blob/master/SQL/Alternative%20Queries/Draw%20The%20Triangle%201.sql)
+[Draw The Triangle 2](https://www.hackerrank.com/challenges/draw-the-triangle-2/problem) | 25 | [Solution](https://github.com/lalwanijayesh/hackerrank-solutions/blob/master/SQL/Alternative%20Queries/Draw%20The%20Triangle%202.sql)
+[Print Prime Numbers](https://www.hackerrank.com/challenges/print-prime-numbers/problem) | 40 | [Solution](https://github.com/lalwanijayesh/hackerrank-solutions/blob/master/SQL/Alternative%20Queries/Print%20Prime%20Numbers.sql)
+
 ## 📂 How to Use  
 1. **Navigate to the relevant category** and open the `.sql` file.  
 2. **Run the query** in a SQL-supported environment (**MySQL, PostgreSQL, or SQL Server**).  
