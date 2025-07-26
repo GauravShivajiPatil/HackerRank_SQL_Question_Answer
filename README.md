@@ -51,11 +51,11 @@ This repository contains my solutions to SQL challenges from **HackerRank**. The
 
 | Number | Challenges | Solutions |
 |:------:|------------|:---------:|
-| 1 |[Type of Triangle](https://www.hackerrank.com/challenges/what-type-of-triangle/problem) | [SQL](Advanced%20Select/Type%20of%20Triangle.sql) |
-| 2 |[The PADS](https://www.hackerrank.com/challenges/the-pads/problem) | [SQL](Advanced%20Select/The%20PADS.sql) |
-| 3 |[Occupations](https://www.hackerrank.com/challenges/occupations/problem) | [SQL](Advanced%20Select/Occupations.sql) |
-| 4 |[Binary Tree Nodes](https://www.hackerrank.com/challenges/binary-search-tree-1/problem) | [SQL](Advanced%20Select/Binary%20Tree%20Nodes.sql)|
-| 5 |[New Companies](https://www.hackerrank.com/challenges/the-company/problem) | [SQL](Advanced%20Select/New%20Companies.sql) |
+| 1 |[Type of Triangle](https://www.hackerrank.com/challenges/what-type-of-triangle/problem) | [SQL](Advance%20Select/Type%20of%20Triangle.sql) |
+| 2 |[The PADS](https://www.hackerrank.com/challenges/the-pads/problem) | [SQL](Advance%20Select/The%20PADS.sql) |
+| 3 |[Occupations](https://www.hackerrank.com/challenges/occupations/problem) | [SQL](Advance%20Select/Occupations.sql) |
+| 4 |[Binary Tree Nodes](https://www.hackerrank.com/challenges/binary-search-tree-1/problem) | [SQL](Advance%20Select/Binary%20tree%20nodes.sql) |
+| 5 |[New Companies](https://www.hackerrank.com/challenges/the-company/problem) | [SQL](Advance%20Select/New%20Companies.sql) |
 
 
 
